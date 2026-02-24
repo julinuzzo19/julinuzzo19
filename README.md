@@ -1,6 +1,6 @@
 # 👋 Hola, soy Backend Software Engineer
 
-Backend Developer con más de 3 años de experiencia desarrollando APIs y sistemas B2B en entornos productivos. Trabajo principalmente con **Node.js**, **TypeScript** y **MySQL**, enfocado en construir backends orientados a escalabilidad, consistencia de datos y mantenibilidad.
+Backend Developer con 3+ años de experiencia desarrollando APIs y sistemas B2B en entornos productivos. Trabajo principalmente con **Node.js**, **TypeScript** y **MySQL**, enfocado en construir backends orientados a escalabilidad, consistencia de datos y mantenibilidad.
 
 Actualmente desarrollo y mantengo sistemas backend end-to-end, participando en decisiones técnicas orientadas a la estabilidad y evolución del sistema en producción.
 
